@@ -49,5 +49,12 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
+## 📬 Connect with Me
+
+Feel free to reach out for collaborations, IT support queries, or just to talk about tech and cybersecurity!
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[cataluna.jhonepaul.borja@gmail.com]@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/jhone-paul-catalu%C3%B1a-0949453ab/)])
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/[https://www.facebook.com/jhonepaul.cataluna])
 ---
 *Open to collaborating on Web Development projects and constantly learning new things in the CyberSec space!*
